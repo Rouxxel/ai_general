@@ -5,3 +5,5 @@ seaborn==0.13.2
 scikit-learn==1.6.1
 kneed==0.8.5
 joblib==1.4.2
+imbalanced-learn==0.13.0
+pathlib2>=2.3.0; python_version < '3.4'

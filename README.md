@@ -36,6 +36,20 @@ This portfolio demonstrates practical implementations of fundamental machine lea
 - **Task**: Binary classification (will purchase vs won't purchase)
 - **Features**: Gender, age, estimated salary
 
+**🌳 [Random Forest - Diabetes Detection](./random_forest/)**
+- **Algorithm**: Random Forest Classifier
+- **Dataset**: BRFSS2015 diabetes health indicators dataset
+- **Task**: Binary classification (diabetes vs no diabetes)
+- **Features**: Health indicators including BMI, blood pressure, cholesterol, smoking status, physical activity, and demographic factors
+- **Techniques**: SMOTE for handling class imbalance, hyperparameter tuning, cross-validation
+
+**🎯 [Support Vector Machine - Diabetes Detection](./svm/)**
+- **Algorithm**: Linear SVM with Calibrated Classifier
+- **Dataset**: BRFSS2015 diabetes health indicators dataset  
+- **Task**: Binary classification (diabetes vs no diabetes)
+- **Features**: Health indicators including BMI, blood pressure, cholesterol, smoking status, physical activity, and demographic factors
+- **Techniques**: SMOTE for handling class imbalance, regularization, probability calibration
+
 #### Regression Models
 
 **💼 [Linear Regression - Company Profit Prediction](./linear_regression/)**
